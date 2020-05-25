@@ -4,5 +4,6 @@ public class F {
     }
     public void test(){
         System.out.println("add");
+        System.out.println("ddddddd");
     }
 }
